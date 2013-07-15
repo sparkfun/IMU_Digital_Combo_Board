@@ -7658,6 +7658,7 @@ Various fiducial points for machine vision alignment.</description>
 <text x="154.94" y="175.26" size="3.81" layer="97">HEADERS</text>
 <text x="68.58" y="99.06" size="1.778" layer="97">0xD0 for write, 0xD1 for read</text>
 <text x="63.5" y="15.24" size="1.778" layer="97">0xA6 for write, 0xA7 for read</text>
+<text x="175.26" y="25.4" size="1.778" layer="96">Revised by: Kade Jensen</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
